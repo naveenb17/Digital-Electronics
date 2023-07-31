@@ -1,2 +1,2 @@
-# Four-Way-Traffic-Controller
-To design a basic 4-way traffic control system with LEDs using Arduino Micro controller
+All code/projects related to digital Electronics
+
